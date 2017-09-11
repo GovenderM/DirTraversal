@@ -8,5 +8,5 @@ python XSS_Detector.py
 
 # Author
 
-- [Mayendran Govender](https://github.com/GovenderM)
+- Mayendran Govender
 
